@@ -1,5 +1,3 @@
-# e2e-file-sharing
-
 # End-to-End File Sharing System
 
 A secure, encrypted file sharing system built with Python that provides end-to-end encryption for safe data transmission between clients through a central server.
@@ -167,5 +165,22 @@ Keys and nonces are automatically generated and stored in:
 5. Open a Pull Request
 
 
-**Note**: This project was developed as part of the Computer Networks and Internet of Things Lab coursework, focusing on implementing secure file sharing with modern cryptographic techniques.
+## 📸 Screenshots
 
+### Project Snapshot
+![File Transfer](images/working.png)
+*Real-time progress tracking during file transfer*
+
+### System Architecture Diagram
+![Architecture Diagram](images/architecture.png)
+*End-to-end file sharing system architecture*
+
+## 📚 References
+
+- [AES Block Cipher Overview](https://etutorials.org/Networking/802.11+security.+wi-fi+protected+access+and+802.11i/Appendixes/Appendix+A.+Overview+of+the+AES+Block+Cipher/Steps+in+the+AES+Encryption+Process/)
+- [Python Socket Programming](https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client)
+- [Socket Model Flow Chart](https://www.researchgate.net/figure/Flow-chart-of-creating-a-socket-model_fig1_343811935)
+
+---
+
+**Note**: This project was developed as part of the Computer Networks and Internet of Things Lab coursework, focusing on implementing secure file sharing with modern cryptographic techniques.
